@@ -1,6 +1,4 @@
 a = 0
-dffdfd
 while a < 150:
-    a = a+1qqw
-    print("Megatronss",+a)
-sa
+    a = a+1
+    print("антоха долбии",+a)
